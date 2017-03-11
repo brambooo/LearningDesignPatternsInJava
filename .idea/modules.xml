@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/command2.iml" filepath="$PROJECT_DIR$/command2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer.iml" filepath="$PROJECT_DIR$/observer.iml" />
     </modules>
   </component>
 </project>
-
